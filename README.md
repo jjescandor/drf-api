@@ -26,4 +26,4 @@
 
 ### Tests
 
-1. no tests at this time
+1. run python3 manage.py test
